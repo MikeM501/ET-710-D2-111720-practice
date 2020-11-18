@@ -76,14 +76,22 @@ export const r1 = {
 		{
 		"skill": "Media",
 		"level": "50%"
+	},
+  		{
+		"skill": "Angular",
+		"level": "95%"
 	}
+
 	],
 
   },
   
   
   "workExperience": [],
-  "education": []
+  "education": [],
+   
+
+ 
 }
 
 
